@@ -1,6 +1,6 @@
 ### Olá, sou Vitor Hugo Julieti! 👋
 
-- 🔭Hoje trabalho com Front-end.
+- 🔭Hoje estudo para trabalhar com Front-end.
 - 🌱 Estou estudando React.js.
 - 😄 Pronouns: ele/dele.
 
