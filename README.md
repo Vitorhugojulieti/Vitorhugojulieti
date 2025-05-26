@@ -1,37 +1,28 @@
-### Olá, sou Vitor Hugo Julieti! 👋
+# Olá! Eu sou o João 👋
 
-- 🔭Hoje estudo para trabalhar com Front-end.
-- 🌱 Estou estudando React.js.
+Sou formado em **Desenvolvimento de Sistemas**, trabalho com **suporte técnico de sistemas gerenciais** e atualmente estudo para me tornar desenvolvedor. Tenho experiência com desenvolvimento backend e estou sempre em busca de aprender mais e evoluir na área da tecnologia.
 
-## 🚀Ferramentas e Tecnologias 
+---
 
-<div display:flex>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+### 💻 Tecnologias que uso
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
+---
 
+### 🚀 Projetos em destaque
+- [Agenda Fácil](https://github.com/seuusuario/agenda-facil) – Sistema de agendamento online com upload de avatar e integração com Google Drive.
+- [Sistema de Torneios](https://github.com/seuusuario/torneio-futebol) – Plataforma para gerenciamento de torneios de futebol com cadastro de times, jogadores e partidas.
 
-##  📞Contate-me
+---
 
-<div>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitorhugojulieti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/vitorHugoJulieti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### 📈 GitHub Stats
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
 
+---
 
-
-## ⚡Git hub stats 
-
-<div>
-  <a href="https://github.com/Vitorhugojulieti">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorhugojulieti&layout=compact&langs_count=7&theme=radical"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorhugojulieti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+### 📫 Entre em contato
+- ✉️ Email: seuemail@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
