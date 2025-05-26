@@ -2,8 +2,6 @@
 
 - 🔭Hoje estudo para trabalhar com Front-end.
 - 🌱 Estou estudando React.js.
-- 😄 Pronouns: ele/dele.
-
 
 ## 🚀Ferramentas e Tecnologias 
 
