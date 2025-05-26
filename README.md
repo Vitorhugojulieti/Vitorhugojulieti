@@ -25,4 +25,4 @@ Sou formado em **Desenvolvimento de Sistemas**, trabalho com **suporte técnico 
 
 ### 📫 Entre em contato
 - ✉️ Email: vitorhugojulieti@email.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/vitorhugojulieti/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/vitorhugojulieti/](https://www.linkedin.com/in/vitorhugojulieti/)
