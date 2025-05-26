@@ -19,7 +19,7 @@ Sou formado em **Desenvolvimento de Sistemas**, trabalho com **suporte técnico 
 ---
 
 ### 📈 GitHub Stats
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor&show_icons=true&theme=tokyonight)
 
 ---
 
