@@ -12,7 +12,8 @@ Sou formado em **Desenvolvimento de Sistemas**, trabalho com **suporte técnico 
 ---
 
 ### 🚀 Projetos em destaque
-- [Agenda Fácil]([https://github.com/seuusuario/agenda-facil](https://vitorhugojulieti.github.io/landing_page_agendaFacil/index.html)) – Landing page do sistema de agendamento de serviços online AgendaFacil.
+- [Agenda Fácil] – Landing page do sistema de agendamento de serviços online AgendaFacil.
+  https://github.com/seuusuario/agenda-facil](https://vitorhugojulieti.github.io/landing_page_agendaFacil/index.html
 
 
 ---
